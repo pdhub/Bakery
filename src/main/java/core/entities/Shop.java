@@ -1,4 +1,4 @@
-package entities;
+package core.entities;
 
 /**
  * Created by PDeb on 1/28/2017.

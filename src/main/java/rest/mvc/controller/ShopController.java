@@ -1,6 +1,7 @@
-package mvc.controller;
+package rest.mvc.controller;
 
-import entities.Shop;
+
+import core.entities.Shop;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

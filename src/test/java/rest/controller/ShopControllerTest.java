@@ -1,6 +1,4 @@
-package mvc.controller;
-
-import static org.junit.Assert.*;
+package rest.controller;
 
 /**
  * Created by PDeb on 1/28/2017.
